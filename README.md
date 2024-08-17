@@ -1,6 +1,6 @@
 # Hello,
 
-My name is Anders and I am a senior in Fashion Merchandising at the University of Georgia. I enjoy learning about coding and programming,
+My name is Anders and I am a Fashion Merchandising graduate from the University of Georgia. I enjoy learning about coding and programming,
 and use this github account to keep track of my projects.
 
 I am currently working on making my website portfolio, which I use when applying to jobs to show some of the work I have done.
